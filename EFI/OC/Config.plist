@@ -16,11 +16,11 @@
                 </dict>
                 <dict>
                     <key>Comment</key>
-                    <string>SSDT-EC-USBX.aml</string>
+                    <string>SSDT-EC-USBX-DESKTOP.aml</string>
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>
-                    <string>SSDT-EC-USBX.aml</string>
+                    <string>SSDT-EC-USBX-DESKTOP.aml</string>
                 </dict>
                 <dict>
                     <key>Comment</key>
@@ -37,14 +37,6 @@
                     <true/>
                     <key>Path</key>
                     <string>SSDT-PM.aml</string>
-                </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string>SSDT-RX 5700 XT-Version 1.0.aml</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>Path</key>
-                    <string>SSDT-RX5700XT-Version1.0.aml</string>
                 </dict>
                 <dict>
                     <key>Comment</key>
