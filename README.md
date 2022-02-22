@@ -1,0 +1,2 @@
+# STRIX-Z490-A-EFI
+Asus Z490-A EFI
